@@ -6,7 +6,7 @@ def create_an_array
   ["Harry", "Ron", "Hermione", "Hagrid"]
 end
 
-def add_element_to_end_of_array ["wow", "I", "am", "really", "learning"]
+def add_element_to_end_of_array ["What", "are"]
   add_element_to_end_of_array << "arrays!"
 end
 
